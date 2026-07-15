@@ -1,0 +1,6 @@
+{
+  "name": "Real-time Collaborative Task Manager",
+  "description": "A sleek, responsive, real-time collaborative Kanban board for task management, featuring active presence tracking, live cursors, and action logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
